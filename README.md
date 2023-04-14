@@ -23,4 +23,5 @@
 #체인-스토크스 호흡이 신경계 중환자의 예후에 미치는 영향
 #https://www.e-jsm.org/journal/view.php?doi=10.13078/jsm.200015
 
-#해당 
+#해당 코드
+#make_plot.ipynb
